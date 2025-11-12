@@ -3,6 +3,3 @@
 - 🔭 I’m currently working on [@cssdao](https://github.com/cssdao)
 - 🌱 I’m currently learning Solidity
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawncvv&count_private=true&show_icons=true&theme=dracula&hide=stars)](https://github.com/shawncvv)
-
